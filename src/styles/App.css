@@ -1,1 +1,23 @@
+.parent {
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+.child-1 {
+    background-color: #d9823c;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.child-2 {
+    background-color: #f3c834;
+    padding: 10px;
+}
+
+button {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    cursor: pointer;
+}
 
